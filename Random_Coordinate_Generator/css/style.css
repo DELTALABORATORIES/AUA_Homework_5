@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    width: 100%;
+    /*overflow: hidden;*/
+}
+#canvas{
+    width:100%;
+    background-color: blue;
+    display: inline-block;
+}
